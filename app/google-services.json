@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687104075465",
+    "project_id": "notification-ecafc",
+    "storage_bucket": "notification-ecafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687104075465:android:7c43bc3b478c5337b88f18",
+        "android_client_info": {
+          "package_name": "com.secure.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687104075465-736tc8hhi10rs5ercsjd4nj128o5rb39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.secure.notification",
+            "certificate_hash": "b0aa374fea64a4351c3cca8908ba6f5a0238ad51"
+          }
+        },
+        {
+          "client_id": "687104075465-m5mq6mba87onvvu98pfghftho0riskj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEE4O28zdwK2h7FMkRjbsnOBzqbnVVOls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687104075465-m5mq6mba87onvvu98pfghftho0riskj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
